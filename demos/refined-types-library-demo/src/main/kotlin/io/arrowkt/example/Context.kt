@@ -9,3 +9,10 @@ data class PositiveIntEven private constructor(val value: Int) {
 }
 
 val result = PositiveIntEven(-1).value
+
+fun main() {
+  println(result)
+  //Exception in thread "main" java.lang.ExceptionInInitializerError
+  //Caused by: java.lang.IllegalArgumentException: -1 should be > 0, -1 should be even
+  //	at io.arrowkt.example.ContextKt.<clinit>(Context.kt:23)
+}

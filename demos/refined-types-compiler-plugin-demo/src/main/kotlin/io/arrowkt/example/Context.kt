@@ -9,3 +9,11 @@ data class PositiveIntEven private constructor(val value: Int) {
 }
 
 val result = PositiveIntEven(-1).value
+
+fun main() {
+  println(result)
+  //> Task :refined-types-compiler-plugin-demo:compileKotlin FAILED
+  //e: -1 should be > 0, -1 should be even : io.arrowkt.example.PositiveIntEven.Companion.invoke
+  //
+  //-1 should be > 0, -1 should be even : io.arrowkt.example.PositiveIntEven.Companion.invoke
+}
