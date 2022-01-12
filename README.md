@@ -19,11 +19,16 @@ cd demos
 ```
 
 ## optics-compiler-plugin-demo
-[this subsubtext](https://raw.githubusercontent.com/AntoniRokitnicki/arrow-meta-examples/main/demos/optics-compiler-plugin-demo/src/main/kotlin/io/arrowkt/example/Context.kt)
+![Context.kt](https://github.com/AntoniRokitnicki/arrow-meta-examples/main/demos/optics-compiler-plugin-demo/src/main/kotlin/io/arrowkt/example/Context.kt)
 
 ### optics-compiler-plugin-demo in IDE
-![alt text](https://github.com/AntoniRokitnicki/arrow-meta-examples/raw/main/demos/optics-compiler-plugin-demo/src/main/kotlin/io/arrowkt/example/IDE-compiler-error.png)
+![in IDE](https://github.com/AntoniRokitnicki/arrow-meta-examples/raw/main/demos/optics-compiler-plugin-demo/src/main/kotlin/io/arrowkt/example/IDE-compiler-error.png)
 
+## refined-types-compiler-plugin-demo
+![Context.kt](https://github.com/AntoniRokitnicki/arrow-meta-examples/blob/main/demos/refined-types-compiler-plugin-demo/src/main/kotlin/io/arrowkt/example/Context.kt)
+
+## refined-types-library-demo
+![Context.kt](https://github.com/AntoniRokitnicki/arrow-meta-examples/blob/main/demos/refined-types-library-demo/src/main/kotlin/io/arrowkt/example/Context.kt)
 
 ## Use of Λrrow Meta to create other Compiler Plugins
 
