@@ -17,6 +17,10 @@ Some examples for [Λrrow Meta](https://github.com/arrow-kt/arrow-meta/) the fun
 cd demos
 ./gradlew clean build
 ```
+## optics-compiler-plugin-demo in IDE
+
+![alt text](https://github.com/AntoniRokitnicki/arrow-meta-examples/raw/main/demos/optics-compiler-plugin-demo/src/main/kotlin/io/arrowkt/example/IDE-compiler-error.png)
+
 
 ## Use of Λrrow Meta to create other Compiler Plugins
 
